@@ -1,8 +1,7 @@
 
 # <b>Hey there🙋‍♀️.</b>
 <p align="center">
- ![CodingGIF](https://user-images.githubusercontent.com/99651718/173222972-1e2c914f-fdc5-4c7e-9d93-6cf9f2fca311.gif)
-</p>
+<img src="https://user-images.githubusercontent.com/99651718/173222972-1e2c914f-fdc5-4c7e-9d93-6cf9f2fca311.gif" alt="Code" width="500" height="600"></p>
 - 👋 <b>Welcome to my github profile!</b>
 - 🤓 <b>Iam Moulika pursuing Bachelor Of Technology at Arita Vishwa Vidhyapeetam Chennai.  </b>
 - 🔭 <b>Am passionate about web development, programming and coding.  </b>
