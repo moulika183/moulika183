@@ -15,7 +15,7 @@
 <p align="center">
     <a>
         <img style="margin:50px" alt="Moulika streak" src="https://github-readme-streak-stats.herokuapp.com/?user=moulika183&theme=midnight-purple&hide_border=true&border=DD0404&ring=00DDCF&background=000000&stroke=00DDAA&fire=DD08DC&currStreakNum=DD0202"/>
-        [![moulika's GitHub stats](https://github-readme-stats.vercel.app/api?username=moulika183)](https://github.com/moulika183/github-readme-stats)
+        <img src="https://github-readme-stats.vercel.app/api?username=moulika183"/>
 
     </center></a>
 </p>
