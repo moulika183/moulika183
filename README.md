@@ -1,6 +1,6 @@
 
 # <b>HI!👋 I'm Moulika pursuing btech at Amrita Vishwa Vidhyapeetam Chennai.</b>
-## <u>ABOUT :</u> :
+## <u>ABOUT </u> :
 - 🔭 <b>Am passionate about web development, programming and coding.  </b>
 - 🪄 <b>Currently learning frontend development 💻.</b>
 - 🔮 <b>I know HTML, CSS, JavaScript, XD, Linux, C and Python..</b>
@@ -11,7 +11,9 @@
     </center></a>
 </p>
 <br>
+
 ## <u>SKILLS :</u> :
+
 <br>
 <img align="left" alt="HTML5" width="60px" style="margin:10px"  src="assets/html-5.png" />
 <img align="left" alt="CSS3" width="40px" style="margin:10px"  src="assets/css.png" />
