@@ -21,6 +21,8 @@
 <img align="left" alt="Xd" width="60px" style="margin:10px"  src="assets/xd.png" />
 <br> 
 <br>
+<br>
+
 ## <u>PROFILES :</u> :
 [Instagram](https://www.instagram.com/moulika_sai_/)
 <br>
@@ -30,4 +32,5 @@
 <br>
 [Email ID](mailto:ch.en.u4cse21232@ch.students.amrita.edu)
 <br>
+
 </span>
