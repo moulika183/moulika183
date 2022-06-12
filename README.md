@@ -1,6 +1,7 @@
 
-## <b>Hey im'moulika🙋‍♀️.</b>
+## <b>Hey i'm moulika🙋‍♀️.</b>
 ## <u>ABOUT </u> :
+- 📖 <b>Pursuing Bachelor Of Technology at Arita Vishwa Vidhyapeetam Chennai.  </b>
 - 🔭 <b>Am passionate about web development, programming and coding.  </b>
 - 🪄 <b>Currently learning frontend development 💻.</b>
 - 🔮 <b>I know HTML, CSS, JavaScript, XD, Linux, C and Python..</b>
