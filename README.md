@@ -11,7 +11,7 @@
 </p>
 <br>
 ## <u>SKILLS :</u> :
-
+<br>
 <img align="left" alt="HTML5" width="40px" style="margin:10px"  src="assets/html-5.png" />
 <img align="left" alt="CSS3" width="40px" style="margin:10px"  src="assets/css.png" />
 <img align="left" alt="JavaScript" width="40px" style="margin:10px"  src="assets/js.png" />
