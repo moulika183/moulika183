@@ -15,8 +15,7 @@
 <p align="center">
     <a>
         <img src="https://github-readme-stats.vercel.app/api?username=moulika183"/>
-
-    </center></a>
+</a>
 </p>
 <br>
 
