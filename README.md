@@ -5,11 +5,10 @@
 <br>
 
 - 👋 <b>Welcome to my github profile!</b>
-- 
-- 🤓 <b>Iam [Moulika](https://www.instagram.com/moulika_sai_/) pursuing Bachelor Of Technology at Amrita Vishwa Vidhyapeetam Chennai.  </b>
+- 🤓 <b>I'm [Moulika](https://www.instagram.com/moulika_sai_/) pursuing Bachelor Of Technology at Amrita Vishwa Vidhyapeetam Chennai.  </b>
 - 🔭 <b>Am passionate about web development, programming and coding.  </b>
 - 🤹 <b>I know HTML, CSS, JavaScript, XD, Linux, C and Python..</b>
-- - 🪄 <b>Currently learning frontend development 💻.</b>
+- 🪄 <b>Currently learning frontend development 💻.</b>
 
 <br>
 <p align="center">
