@@ -1,6 +1,6 @@
 
-## <p><b>HI!👋 I'm Moulika pursuing btech at Amrita Vishwa Vidhyapeetam Chennai.</b></p>
-## <u>About me</u> :
+# <b>HI!👋 I'm Moulika pursuing btech at Amrita Vishwa Vidhyapeetam Chennai.</b>
+## <u>ABOUT :</u> :
 - 🔭 <b>Am passionate about web development, programming and coding.  </b>
 - 🔮 <b>I know HTML,CSS,JavaScript,XD,Linux,C and Python...</b>
 <br>
@@ -10,8 +10,7 @@
     </center></a>
 </p>
 <br>
-
-## <u>Skills</u> :
+## <u>SKILLS :</u> :
 
 <img align="left" alt="HTML5" width="40px" style="margin:10px"  src="assets/html-5.png" />
 <img align="left" alt="CSS3" width="40px" style="margin:10px"  src="assets/css.png" />
@@ -19,18 +18,17 @@
 <img align="left" alt="Python" width="40px" style="margin:10px"  src="assets/python.png" />
 <img align="left" alt="c" width="40px" style="margin:10px"  src="assets/c.png" />
 <img align="left" alt="linux" width="60px" style="margin:10px"  src="assets/linux.png" />
+<img align="left" alt="Xd" width="60px" style="margin:10px"  src="assets/xd.png" />
 <br> 
 <br>
 
-## <u>Social Profiles</u> :
+## <u>PROFILES :</u> :
 [Instagram](https://www.instagram.com/moulika_sai_/)
 <br>
 <br>
 [Github](https://github.com/moulika183/)
 <br>
 <br>
-<br>
 [Email ID](mailto:ch.en.u4cse21232@ch.students.amrita.edu)
-<br> 
-
+<br>
 </span>
