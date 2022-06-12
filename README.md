@@ -12,13 +12,13 @@
 <br>
 ## <u>SKILLS :</u> :
 <br>
-<img align="left" alt="HTML5" width="40px" style="margin:10px"  src="assets/html-5.png" />
+<img align="left" alt="HTML5" width="60px" style="margin:10px"  src="assets/html-5.png" />
 <img align="left" alt="CSS3" width="40px" style="margin:10px"  src="assets/css.png" />
 <img align="left" alt="JavaScript" width="40px" style="margin:10px"  src="assets/js.png" />
 <img align="left" alt="Python" width="40px" style="margin:10px"  src="assets/python.png" />
 <img align="left" alt="c" width="40px" style="margin:10px"  src="assets/c.png" />
 <img align="left" alt="linux" width="60px" style="margin:10px"  src="assets/linux.png" />
-<img align="left" alt="Xd" width="60px" style="margin:10px"  src="assets/xd.png" />
+<img align="left" alt="Xd" width="40px" style="margin:10px"  src="assets/xd.png" />
 <br> 
 <br>
 <br>
