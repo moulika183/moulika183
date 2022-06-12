@@ -32,10 +32,10 @@
 [Instagram](https://www.instagram.com/moulika_sai_/)
 <br>
 <br>
-[Github](https://github.com/moulika183/)
-<br>
-<br>
 [Email ID](mailto:ch.en.u4cse21232@ch.students.amrita.edu)
+<br>
+<br>
+[Github](https://github.com/moulika183/)
 <br>
 
 </span>
