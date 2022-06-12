@@ -1,5 +1,5 @@
 
-## <b>Hey i'm moulika🙋‍♀️.</b>
+# <b>Hey i'm <u>moulika</u>🙋‍♀️.</b>
 ## <u>ABOUT </u> :
 - 📖 <b>Pursuing Bachelor Of Technology at Arita Vishwa Vidhyapeetam Chennai.  </b>
 - 🔭 <b>Am passionate about web development, programming and coding.  </b>
