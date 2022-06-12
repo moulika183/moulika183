@@ -2,7 +2,8 @@
 # <b>HI!👋 I'm Moulika pursuing btech at Amrita Vishwa Vidhyapeetam Chennai.</b>
 ## <u>ABOUT :</u> :
 - 🔭 <b>Am passionate about web development, programming and coding.  </b>
-- 🔮 <b>I know HTML,CSS,JavaScript,XD,Linux,C and Python...</b>
+- 🪄 <b>Currently learning frontend development 💻.</b>
+- 🔮 <b>I know HTML, CSS, JavaScript, XD, Linux, C and Python..</b>
 <br>
 <p align="center">
     <a>
@@ -17,6 +18,7 @@
 <img align="left" alt="JavaScript" width="40px" style="margin:10px"  src="assets/js.png" />
 <img align="left" alt="Python" width="40px" style="margin:10px"  src="assets/python.png" />
 <img align="left" alt="c" width="40px" style="margin:10px"  src="assets/c.png" />
+<img align="left" alt="c" width="40px" style="margin:10px"  src="assets/mysql.png" />
 <img align="left" alt="linux" width="60px" style="margin:10px"  src="assets/linux.png" />
 <img align="left" alt="Xd" width="40px" style="margin:10px"  src="assets/xd.png" />
 <br> 
