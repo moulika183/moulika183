@@ -3,7 +3,7 @@
 - 👋 <b>Welcome to my github profile!</b>
 - 🤓 <b>I'm [Moulika](https://www.instagram.com/moulika_sai_/) pursuing Bachelor Of Technology at Amrita Vishwa Vidhyapeetam Chennai.  </b>
 
-<p align="center">
+<p align="center" float="right" position="absolute">
 <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="Code" width="40%"></p>
 <br>
 
