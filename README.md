@@ -1,10 +1,13 @@
 
-# <b>Hey i'm moulika🙋‍♀️.</b>
-## <u>ABOUT </u> :
-- 📖 <b>Pursuing Bachelor Of Technology at Arita Vishwa Vidhyapeetam Chennai.  </b>
+# <b>Hey there🙋‍♀️.</b>
+<p align="center">
+![Uploading QubyChanGIF.gif…]()
+<p align="center">
+- 👋 <b>Welcome to my github profile!</b>
+- 🤓 <b>Iam Moulika pursuing Bachelor Of Technology at Arita Vishwa Vidhyapeetam Chennai.  </b>
 - 🔭 <b>Am passionate about web development, programming and coding.  </b>
 - 🪄 <b>Currently learning frontend development 💻.</b>
-- 🔮 <b>I know HTML, CSS, JavaScript, XD, Linux, C and Python..</b>
+- 🤹 <b>I know HTML, CSS, JavaScript, XD, Linux, C and Python..</b>
 <br>
 <p align="center">
     <a>
@@ -13,7 +16,7 @@
 </p>
 <br>
 
-## <u>SKILLS :</u> :
+## <u>Things i work with⚙️</u> :
 
 <br>
 <img align="left" alt="HTML5" width="60px" style="margin:10px"  src="assets/html-5.png" />
@@ -28,7 +31,7 @@
 <br>
 <br>
 
-## <u>PROFILES :</u> :
+## <u>PROFILES </u> :
 [Instagram](https://www.instagram.com/moulika_sai_/)
 <br>
 <br>
