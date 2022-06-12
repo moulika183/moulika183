@@ -1,5 +1,5 @@
 
-# <b>HI!👋 I'm Moulika pursuing btech at Amrita Vishwa Vidhyapeetam Chennai.</b>
+## <b>Hey im'moulika🙋‍♀️.</b>
 ## <u>ABOUT </u> :
 - 🔭 <b>Am passionate about web development, programming and coding.  </b>
 - 🪄 <b>Currently learning frontend development 💻.</b>
