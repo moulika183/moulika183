@@ -1,7 +1,7 @@
 
 # <b>Hey there🙋‍♀️.</b>
 <p align="center">
-<img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="Code"></p>
+<img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="Code" width="50%"></p>
 <br>
 
 - 👋 <b>Welcome to my github profile!</b>
